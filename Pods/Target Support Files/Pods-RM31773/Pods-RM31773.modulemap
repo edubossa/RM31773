@@ -1,0 +1,6 @@
+framework module Pods_RM31773 {
+  umbrella header "Pods-RM31773-umbrella.h"
+
+  export *
+  module * { export * }
+}
